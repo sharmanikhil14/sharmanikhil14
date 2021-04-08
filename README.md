@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharmanikhil14
 - 👀 I’m interested in building website
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on making websites
+- 💞️ I’m looking to collaborate on making websites and apps
 - 📫 How to reach me call me
 
 <!---
